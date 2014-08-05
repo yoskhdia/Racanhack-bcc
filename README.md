@@ -38,10 +38,10 @@ ANSI Cで作成していたので、現代と合わないところが多々あ�
 IDはカンマで区切ること  
 なお、monster.h内列挙型のENEMY_MAXが最大種類登録数になる。（現在6）
 
-F1:                       //そのフロアの階数（F+xxx）  
-990007:                   //ボスmonsterのID（先頭99+ID）  
-010002:                   //LVUPmonsterのID（先頭LV+ID）  
-000001,000002,000003;     //monster.dat(csv)先頭4文字ID（先頭00+ID）  
+    F1:                       //そのフロアの階数（F+xxx）  
+    990007:                   //ボスmonsterのID（先頭99+ID）  
+    010002:                   //LVUPmonsterのID（先頭LV+ID）  
+    000001,000002,000003;     //monster.dat(csv)先頭4文字ID（先頭00+ID）  
 
 
 ## 更新履歴
